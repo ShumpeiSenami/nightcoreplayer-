@@ -13,9 +13,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/nightcoreplayer-build.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project/assembly.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/jp/ed/nnn/nightcoreplayer/Main.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../scala-grammar/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../scala-grammar/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../scala-grammar/.idea/modules.xml" afterDir="false" />
@@ -154,6 +152,8 @@
       <change afterPath="$PROJECT_DIR$/../swing-study/.idea/scala_compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../swing-study/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../swing-study/src/main/scala/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/jp/ed/nnn/nightcoreplayer/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/jp/ed/nnn/nightcoreplayer/Main.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../parsercombinator/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../parsercombinator/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_1_1_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../parsercombinator/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" beforeDir="false" />
@@ -790,11 +790,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/jp/ed/nnn/nightcoreplayer/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
               <folding>
                 <element signature="e#35#54#0" expanded="true" />
               </folding>
@@ -802,7 +802,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project/assembly.sbt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -823,15 +823,15 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$USER_HOME$/Library/Preferences/IdeaIC2019.1/idea.vmoptions" />
-        <option value="$PROJECT_DIR$/src/main/scala/jp/ed/nnn/nightcoreplayer/Main.scala" />
         <option value="$PROJECT_DIR$/project/assembly.sbt" />
         <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/jp/ed/nnn/nightcoreplayer/Main.scala" />
       </list>
     </option>
   </component>
@@ -959,6 +959,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="984" y="23" width="936" height="979" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2606264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -966,13 +967,13 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32694477" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32694477" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32919955" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32919955" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32919955" />
@@ -993,16 +994,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/jp/ed/nnn/nightcoreplayer/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding>
-            <element signature="e#35#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1014,6 +1005,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/jp/ed/nnn/nightcoreplayer/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

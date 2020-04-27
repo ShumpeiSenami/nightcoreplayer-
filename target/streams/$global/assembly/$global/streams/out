@@ -1,10 +1,10 @@
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: javafx-base-11-ea+25-mac.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: javafx-graphics-11-ea+25-mac.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: scala-library.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: javafx-web-11-ea+25-mac.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: javafx-controls-11-ea+25-mac.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: javafx-fxml-11-ea+25-mac.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: javafx-media-11-ea+25-mac.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: javafx-base-11-ea+25-mac.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: javafx-controls-11-ea+25-mac.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: javafx-graphics-11-ea+25-mac.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: javafx-fxml-11-ea+25-mac.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: javafx-media-11-ea+25-mac.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: javafx-web-11-ea+25-mac.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
 [0m[[0m[0mdebug[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
 [0m[[0m[0mdebug[0m] [0m[0mMerging files...[0m
@@ -14,7 +14,7 @@
 [0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to a file (Run the task at debug level to see details)[0m
 [0m[[0m[0minfo[0m] [0m[0mStrategy 'first' was applied to a file (Run the task at debug level to see details)[0m
 [0m[[0m[0minfo[0m] [0m[0mStrategy 'rename' was applied to a file (Run the task at debug level to see details)[0m
-[0m[[0m[0mdebug[0m] [0m[0mSHA-1: e49410ebea1afb4e62b4b49c21f5a341b11b9829[0m
+[0m[[0m[0mdebug[0m] [0m[0mSHA-1: b759e0f23c5bd6a29c419cd68008a1a46344b84a[0m
 [0m[[0m[0minfo[0m] [0m[0mPackaging /Users/shun/workspace/nightcoreplayer/target/scala-2.12/nightcoreplayer.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/sun/glass/events/DndEvent.class[0m
@@ -12395,6 +12395,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/shun/workspace/nightcoreplayer/target/streams/$global/assemblyOption/$global/streams/assembly/45a6c614bbd9e150ff967cb6357af2f7fa0ca7b6_34c363ab79b05d7c2c1e07e6e1a95c0aed8aa0e7_da39a3ee5e6b4b0d3255bfef95601890afd80709/javafx/util/converter/ShortStringConverter.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	javafx/util/converter/TimeStringConverter.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/shun/workspace/nightcoreplayer/target/streams/$global/assemblyOption/$global/streams/assembly/45a6c614bbd9e150ff967cb6357af2f7fa0ca7b6_34c363ab79b05d7c2c1e07e6e1a95c0aed8aa0e7_da39a3ee5e6b4b0d3255bfef95601890afd80709/javafx/util/converter/TimeStringConverter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jp/ed/nnn/nightcoreplayer/Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shun/workspace/nightcoreplayer/target/streams/$global/assemblyOption/$global/streams/assembly/620dcc5ac7149409b56fc43fd636ee79d26b82ea_dir/jp/ed/nnn/nightcoreplayer/Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	jp/ed/nnn/nightcoreplayer/Main$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shun/workspace/nightcoreplayer/target/streams/$global/assemblyOption/$global/streams/assembly/620dcc5ac7149409b56fc43fd636ee79d26b82ea_dir/jp/ed/nnn/nightcoreplayer/Main$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	jp/ed/nnn/nightcoreplayer/Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/shun/workspace/nightcoreplayer/target/streams/$global/assemblyOption/$global/streams/assembly/620dcc5ac7149409b56fc43fd636ee79d26b82ea_dir/jp/ed/nnn/nightcoreplayer/Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	jp/ed/nnn/nightcoreplayer/Main$delayedInit$body.class[0m
